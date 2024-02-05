@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicoDemosaS
+Oii! Eu sou o Gabriel Brunismann!
 - 👀 I’m interested in ... Back end Developing
 - 🌱 I’m currently learning ... Python!
 - 💞️ I’m looking to collaborate on ... Anything
