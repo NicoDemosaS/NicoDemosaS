@@ -1,4 +1,4 @@
-<h2 align="center">Nicolas.</h2>
+<h2 align="center">Nicolas</h2>
 
 ---
 
